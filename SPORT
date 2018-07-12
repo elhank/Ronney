@@ -1,0 +1,118 @@
+#EXTM3U
+#EXTINF:-1 group-title="SPORT", ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1 group-title="SPORT", CCTV 5
+http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="SPORT", CCTV 5+ HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="SPORT", CCTV5-
+rtmp://58.200.131.3:1935/livetv/cctv5hd
+#EXTINF:-1 group-title="SPORT", CCTV5-
+http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+#EXTINF:-1 group-title="SPORT", CCTV 1
+http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
+#EXTINF:-1 group-title="SPORT", FOX SPORT
+http://103.242.13.90:5555/udp/239.4.1.47:10000
+#EXTINF:-1 group-title="SPORT", FOX SPORT 2
+http://103.242.13.90:5555/udp/239.4.1.48:10000
+#EXTINF:-1 group-title="SPORT", SPORT 3 HD
+http://103.242.13.90:5555/udp/239.4.1.44:10000
+#EXTINF:-1 group-title="SPORT", STRO SPORT
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1 group-title="SPORT", True
+http://103.242.13.90:5555/udp/239.4.1.149:10000
+#EXTINF:-1 group-title="SPORT", Eurosport-OTT
+http://103.242.13.90:5555/udp/239.4.1.108:10000
+
+
+#EXTINF:-1 group-title="FILM", TV Okey
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 group-title="FILM", AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:-1 group-title="FILM", KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 group-title="FILM", THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
+#EXTINF:-1 group-title="FILM", FOX MOVIE PREMIUM
+http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
+#EXTINF:-1 group-title="FILM", FOX FAMILY MOVIES
+http://210.210.155.35/session/8ebcdf20-7dac-11e8-98cf-b82a72d63267/uq2663/h/h16/01.m3u8
+#EXTINF:-1 group-title="FILM", FOX ACTION MOVIES
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
+#EXTINF:-1 group-title="FILM", FOXLife
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1 group-title="FILM", ING KONG OTT
+http://103.242.13.90:5555/udp/239.4.1.33:10000
+#EXTINF:-1 group-title="FILM", TV5 Monde OTT
+http://103.242.13.90:5555/udp/239.4.1.38:10000
+#EXTINF:-1 group-title="FILM", LOTUS
+http://103.242.13.90:5555/udp/239.4.1.39:10000
+#EXTINF:-1 group-title="FILM", FOX OTT HD
+http://103.242.13.90:5555/udp/239.4.1.83:10000
+#EXTINF:-1 group-title="FILM", FOX FAMILY MOVIES
+http://lihattv.com/?play=43352
+#EXTINF:-1 group-title="FILM", FOX ACTION MOVIES
+http://lihattv.com/?play=43351
+#EXTINF:-1 group-title="FILM", FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1 group-title="FILM", FOX LIFE
+http://lihattv.com/?play=43342
+#EXTINF:-1 group-title="FILM", MY CINEMA
+http://lihattv.com/?play=43427
+#EXTINF:-1 group-title="FILM", KIX
+http://lihattv.com/?play=43340
+#EXTINF:-1 group-title="FILM", BLACK DIAMOND
+http://lihattv.com/?play=43212
+#EXTINF:-1 group-title="FILM", GOLD DIAMOND
+http://lihattv.com/?play=43221
+#EXTINF:-1 group-title="FILM", AVAVA DIAMOND
+http://lihattv.com/?play=43218
+#EXTINF:-1 group-title="FILM", RED DIAMOND
+http://lihattv.com/?play=43224
+#EXTINF:-1 group-title="FILM", KOREA DRAMA
+http://lihattv.com/?play=43420
+#EXTINF:-1 group-title="FILM", K+
+http://lihattv.com/?play=43343
+#EXTINF:-1 group-title="FILM", V CHANNEL
+http://lihattv.com/?play=43419
+#EXTINF:-1 group-title="FILM", THRILL
+http://lihattv.com/?play=43415
+#EXTINF:-1 group-title="FILM", CELESTRIAL MOVIE
+http://lihattv.com/?play=43414
+#EXTINF:-1 group-title="FILM", ZEE BISOKOP
+http://lihattv.com/?play=43413
+#EXTINF:-1 group-title="FILM", AVAVA BOLYWOOD
+http://lihattv.com/?play=43208
+#EXTINF:-1 group-title="FILM", FOX
+http://lihattv.com/?play=43346
+#EXTINF:-1 group-title="FILM", THE CHANNEL
+http://lihattv.com/?play=43307
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FILM", AXN 
+http://rr.dens.tv/h/h09/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FILM", S ONE 
+http://rr.dens.tv/h/h13/index1.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="FILM", SBS IN HD (
+http://rr.dens.tv/h/h28/index1.m3u8
+#EXTINF:-1 group-title="FILM", SFI
+http://lihattv.com/?play=43192
+
+#EXTINF:-1 group-title="GEOGRAPHIC", NATIONAL GEOGRAPHIC
+http://lihattv.com/?play=43347
+#EXTINF:-1 group-title="GEOGRAPHIC", NAT GEO WILD
+http://lihattv.com/?play=43348
+#EXTINF:-1 group-title="GEOGRAPHIC", CGTN DOCUMENTARY
+http://lihattv.com/?play=43404
+
+
+
+
+
+
+
+
+
+
+
+
+
+
